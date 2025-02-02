@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bd677a2-33f0-4a32-8e85-cf1ee8b65072" name="Changes" comment="Guide" />
+    <list default="true" id="3bd677a2-33f0-4a32-8e85-cf1ee8b65072" name="Changes" comment="Guide">
+      <change afterPath="$PROJECT_DIR$/Beginner/statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Beginner/weight_conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/calculator_mini/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,9 +63,11 @@
     "Python.Shopping_Cart.executor": "Run",
     "Python.Typecasting.executor": "Run",
     "Python.input.executor": "Run",
+    "Python.weight_conversion.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Uri Sándor/Desktop/pyhton_projects/gyakorlas"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -129,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731522667041</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Guide">
+      <option name="closed" value="true" />
+      <created>1731522787632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1731522787632</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
